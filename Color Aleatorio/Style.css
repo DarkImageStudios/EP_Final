@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Diseño del contenido*/
+#contenedor {
+    max-width: 300px;
+    margin: 350px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+/* Diseño de los botones */
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Tamaño del codigo */
+#Codigo {
+    font-size: 40px; 
+}
